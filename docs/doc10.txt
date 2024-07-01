@@ -1,0 +1,1 @@
+Quantum computing is a type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations. Quantum computers are believed to be able to solve certain problems much faster than classical computers.

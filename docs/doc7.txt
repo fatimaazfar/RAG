@@ -1,0 +1,1 @@
+Big data refers to data sets that are so large or complex that traditional data processing applications are inadequate to deal with them. Challenges include data capture, storage, analysis, data curation, search, sharing, transfer, visualization, querying, updating, and information privacy.

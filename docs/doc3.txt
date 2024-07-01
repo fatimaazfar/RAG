@@ -1,0 +1,1 @@
+Deep learning is a class of machine learning algorithms that use multiple layers of artificial neural networks to model complex patterns in data. It has been particularly successful in areas such as image and speech recognition, natural language processing, and autonomous driving.

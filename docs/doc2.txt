@@ -1,0 +1,1 @@
+Machine learning (ML) is a subset of artificial intelligence that focuses on the development of algorithms that allow computers to learn from and make decisions based on data. ML algorithms build a mathematical model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to perform the task.

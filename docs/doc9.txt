@@ -1,0 +1,1 @@
+Blockchain is a decentralized digital ledger that records transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the consensus of the network. Blockchain technology is the backbone of cryptocurrencies like Bitcoin.
